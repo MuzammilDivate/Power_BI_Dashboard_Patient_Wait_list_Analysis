@@ -17,4 +17,5 @@ Power BI Acted as a foundation in my analysis of the patien waitlists.
 - Then with the help of Power BI - Power Querry I Appended the two datasets i originally had being Inpatient and Outpatient I Fixed any mis-typed columns and .
 - After i had Appended and fixed the types, I applied the changes and went to the viz page and creataed the following visuals.
 
-![Viz here](Images/jj.mp4)
+https://github.com/user-attachments/assets/0b240ff3-c864-4e1f-a7f8-c7d5863fb433
+
